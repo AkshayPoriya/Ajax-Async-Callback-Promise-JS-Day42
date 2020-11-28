@@ -1,0 +1,78 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Joey",
+      "salary": 45000
+    },
+    {
+      "id": 2,
+      "name": "Rachel",
+      "salary": 50000
+    },
+    {
+      "id": 3,
+      "name": "Phoebe",
+      "salary": 75000
+    },
+    {
+      "name": "Chandler",
+      "salary": 55000,
+      "id": 5
+    },
+    {
+      "salary": 550000,
+      "id": 6
+    },
+    {
+      "name": "Ross",
+      "salary": "40000",
+      "id": 8
+    },
+    {
+      "name": "Monica",
+      "salary": "40000",
+      "id": 12
+    },
+    {
+      "name": "Ben Gellar",
+      "salary": "40000",
+      "id": 13
+    },
+    {
+      "name": "Sussy",
+      "salary": "40000",
+      "id": 14
+    },
+    {
+      "name": "Kathy",
+      "salary": "40000",
+      "id": 15
+    },
+    {
+      "name": "Polo",
+      "salary": "40000",
+      "id": 16
+    },
+    {
+      "name": "Juile",
+      "salary": "500000",
+      "id": 17
+    },
+    {
+      "name": "Joseph",
+      "salary": "40000",
+      "id": 18
+    },
+    {
+      "name": "Ross",
+      "salary": "680000",
+      "id": 19
+    },
+    {
+      "name": "Ross",
+      "salary": "680000",
+      "id": 20
+    }
+  ]
+}
